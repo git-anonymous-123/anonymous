@@ -1,1 +1,4 @@
-Two complete and real life-cycle materials of the cases (claims, court records, and their verdicts) to expose how the judges hear the case and make judgment in practical situation.
+Dear Reviewers:
+  
+  We have released all the experimental data and code at https://github.com/anonymous-12342/WWW2021.
+
